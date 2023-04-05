@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div name='about' className='w-full h-screen bg-[#1e1e1e] text-gray-300'>
             <div className='flex flex-col justify-center items-center w-full h-full'>
-                <div className='max-w-[1000px] w-full px-5 grid grid-cols-2 gap-8'>
+                <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
                     <div className='sm:text-right pb-8 pl-4'>
                         <p className='text-4xl font-bold inline border-b-4 border-[#bbb4ab]'>About</p>
                     </div>
@@ -15,7 +15,7 @@ const About = () => {
                         <p>Hi. I'm Stephen, nice to meet you! Please take a look around.</p>
                     </div>
                     <div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit voluptatum fuga, maiores quia officia excepturi dolore hic! Nemo qui voluptatem eaque laudantium libero consectetur, mollitia optio dicta reprehenderit, repudiandae facilis!</p>
+                        <p>I graduated from Full-Stack Flex Coding Bootcamp in March of 2023 from the University of Texas at Austin. I also have a Bachelor of Arts in Radio/TV/Film from the University of North Texas, graduated 2006. Media and accessibility are important to me, and I try to incorporate those thought processes into coding.</p>
                     </div>
                 </div>
             </div>

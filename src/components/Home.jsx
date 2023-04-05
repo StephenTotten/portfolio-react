@@ -10,7 +10,7 @@ const Home = () => {
                 <p className='text-[#fbfaf9]'>Hi, my name is</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#bbb4ab]'>Stephen Totten</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#fbfaf9]'>I'm a Full Stack Developer.</h2>
-                <p className='text-[#fbfaf9] py-4 max-w-[700px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, pariatur provident quia architecto quas ipsum numquam, neque, assumenda voluptates sequi error non velit nobis quo ad? Commodi quo rem modi!</p>
+                <p className='text-[#fbfaf9] py-4 max-w-[700px]'>After 14+ years working for a non-profit providing closed-captions for live TV, I decided to attend a Web Dev bootcamp, where I fell in love with coding. Based in Fort Worth, TX, I'm seeking entry-level positions where I can add value to a team!</p>
                 <div>
                     <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#bbb4ab] hover:border-[#bbb4ab]'>View Work 
                     <span className='group-hover:rotate-90 duration-300'>

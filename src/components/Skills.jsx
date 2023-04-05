@@ -43,7 +43,7 @@ const Skills = () => {
             </div>
         </div>
     </div>
-  )
-}
+  );
+};
 
-export default Skills
+export default Skills;
