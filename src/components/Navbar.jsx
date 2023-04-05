@@ -107,7 +107,7 @@ const Navbar = () => {
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a className='flex justify-between items-center w-full text-gray-300'
-              href="../src/assets/resume.pdf">
+              href="https://cdn.discordapp.com/attachments/612981552246292500/1093266431589748777/Resume_-_Stephen_Totten.pdf">
               Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
