@@ -1,6 +1,10 @@
 import React from 'react'
 import GitLife from '../assets/gitlife.png'
 import FlashFacts from '../assets/flashfacts.png'
+import BudgetBuddy from '../assets/budgetbuddy.png'
+import TechBlog from '../assets/techblog.png'
+import EmpTrack from '../assets/nodeemptrack.png'
+import CodeGame from '../assets/codegame.png'
 
 const Work = () => {
     return (
@@ -23,12 +27,12 @@ const Work = () => {
                                 React/MongoDB JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://git-your-life-together.herokuapp.com/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/JessicaIOrtega/Git-your-life-together-">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -38,7 +42,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${FlashFacts})` }}
+                        style={{ backgroundImage: `url(${BudgetBuddy})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
@@ -47,12 +51,12 @@ const Work = () => {
                                 Handlebars/MySQL JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://financial-planner-uta-bc.herokuapp.com/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Crothos/financial-planner">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -62,7 +66,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${GitLife})` }}
+                        style={{ backgroundImage: `url(${FlashFacts})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
@@ -71,12 +75,12 @@ const Work = () => {
                                 Third Party API JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://crothos.github.io/flashcard-app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Crothos/flashcard-app">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -86,7 +90,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${FlashFacts})` }}
+                        style={{ backgroundImage: `url(${TechBlog})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
@@ -95,12 +99,12 @@ const Work = () => {
                                 Full-Stack JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://bc14-tech-blog.herokuapp.com/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Crothos/UTA-BC14-Tech-Blog">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -110,7 +114,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${GitLife})` }}
+                        style={{ backgroundImage: `url(${EmpTrack})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
@@ -119,12 +123,12 @@ const Work = () => {
                                 Node.js Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://github.com/Crothos/UTA-BC12-EmployeeTracker/blob/main/README.md">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Crothos/UTA-BC12-EmployeeTracker">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -134,7 +138,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${FlashFacts})` }}
+                        style={{ backgroundImage: `url(${CodeGame})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
@@ -143,12 +147,12 @@ const Work = () => {
                                 Front-End JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://crothos.github.io/UTA-BC4-QuizGame/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Crothos/UTA-BC4-QuizGame">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
