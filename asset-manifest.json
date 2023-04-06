@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.222645bd.css",
-    "main.js": "/portfolio-react/static/js/main.cd7f2e1c.js",
+    "main.css": "/portfolio-react/static/css/main.de4e62b2.css",
+    "main.js": "/portfolio-react/static/js/main.5ec94fa4.js",
     "static/media/flashfacts.png": "/portfolio-react/static/media/flashfacts.f6ff55b684bbf2f0de54.png",
     "static/media/techblog.png": "/portfolio-react/static/media/techblog.ebc406ec57896170c3a4.png",
     "static/media/budgetbuddy.png": "/portfolio-react/static/media/budgetbuddy.977d68725a86ff3c520b.png",
@@ -13,14 +13,14 @@
     "static/media/nodeemptrack.png": "/portfolio-react/static/media/nodeemptrack.cc63a836646b9ef619ca.png",
     "static/media/html.png": "/portfolio-react/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/portfolio-react/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/logo.png": "/portfolio-react/static/media/logo.c2a8e48a77a60ab09445.png",
+    "static/media/logo.png": "/portfolio-react/static/media/logo.01e40a4f8a4286313014.png",
     "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react/index.html",
-    "main.222645bd.css.map": "/portfolio-react/static/css/main.222645bd.css.map",
-    "main.cd7f2e1c.js.map": "/portfolio-react/static/js/main.cd7f2e1c.js.map"
+    "main.de4e62b2.css.map": "/portfolio-react/static/css/main.de4e62b2.css.map",
+    "main.5ec94fa4.js.map": "/portfolio-react/static/js/main.5ec94fa4.js.map"
   },
   "entrypoints": [
-    "static/css/main.222645bd.css",
-    "static/js/main.cd7f2e1c.js"
+    "static/css/main.de4e62b2.css",
+    "static/js/main.5ec94fa4.js"
   ]
 }
