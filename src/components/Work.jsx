@@ -12,7 +12,7 @@ const Work = () => {
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#77DD77]'>Projects</p>
-                    <p className='py-6'>Check out some of my recent projects.</p>
+                    <p className='py-6'>Check out some of my projects.</p>
                 </div>
                 {/* Container */}
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
@@ -56,7 +56,7 @@ const Work = () => {
                                         Demo
                                     </button>
                                 </a>
-                                <a href="https://github.com/Crothos/financial-planner">
+                                <a href="https://github.com/StephenTotten/financial-planner">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -75,12 +75,12 @@ const Work = () => {
                                 Third Party API JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://crothos.github.io/flashcard-app/">
+                                <a href="https://stephentotten.github.io/flashcard-app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="https://github.com/Crothos/flashcard-app">
+                                <a href="https://github.com/StephenTotten/flashcard-app">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -104,7 +104,7 @@ const Work = () => {
                                         Demo
                                     </button>
                                 </a>
-                                <a href="https://github.com/Crothos/UTA-BC14-Tech-Blog">
+                                <a href="https://github.com/StephenTotten/UTA-BC14-Tech-Blog">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -123,12 +123,12 @@ const Work = () => {
                                 Node.js Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://github.com/Crothos/UTA-BC12-EmployeeTracker/blob/main/README.md">
+                                <a href="https://github.com/StephenTotten/UTA-BC12-EmployeeTracker/blob/main/README.md">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="https://github.com/Crothos/UTA-BC12-EmployeeTracker">
+                                <a href="https://github.com/StephenTotten/UTA-BC12-EmployeeTracker">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -147,12 +147,12 @@ const Work = () => {
                                 Front-End JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://crothos.github.io/UTA-BC4-QuizGame/">
+                                <a href="https://stephentotten.github.io/UTA-BC4-QuizGame/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="https://github.com/Crothos/UTA-BC4-QuizGame">
+                                <a href="https://github.com/StephenTotten/UTA-BC4-QuizGame">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
