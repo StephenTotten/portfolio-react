@@ -16,7 +16,7 @@ const About = () => {
                         <img className='shadow-lg shadow-[#040c16] hover:scale-110 duration-500 w-40 mx-auto border-4 border-[#77DD77]' src={Stevo} alt='self-portrait'></img>
                     </div>
                     <div>
-                        <p className='font-bold'>Hi, I'm Stephen! Nice to meet you. I graduated from Full-Stack Flex Coding Bootcamp in March of 2023 from the University of Texas at Austin. I also have a Bachelor of Arts in Radio/TV/Film from the University of North Texas, graduated 2006. Media and accessibility are important to me, and I try to incorporate those thought processes into coding. After 14+ years working for a non-profit providing closed-captions for live TV, I decided to attend web dev bootcamp, where I fell in love with coding.</p>
+                        <p className='font-bold'>Hi, I'm Stephen! After 14+ years working for a non-profit providing closed-captions for live TV, I decided to change careers after I fell in love with coding. I currently work for Presidio, a consulting firm and digital solutions provider, as an Associate Software Engineer. I have worked on both web and desktop applications using a vast array of languages and technologies.</p>
                     </div>
                 </div>
             </div>
