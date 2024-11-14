@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.4e1b5188.css",
-    "main.js": "/portfolio-react/static/js/main.3d7a990e.js",
+    "main.css": "/portfolio-react/static/css/main.799aa889.css",
+    "main.js": "/portfolio-react/static/js/main.9da954fb.js",
     "static/media/Me2Pro.png": "/portfolio-react/static/media/Me2Pro.d994b46f40b2829fb7ba.png",
     "static/media/flashfacts.png": "/portfolio-react/static/media/flashfacts.f6ff55b684bbf2f0de54.png",
+    "static/media/soonercon.png": "/portfolio-react/static/media/soonercon.636af92e23677af34cdf.png",
     "static/media/gitlife.png": "/portfolio-react/static/media/gitlife.9ebd05c8020d9bc85f87.png",
     "static/media/pgatour.png": "/portfolio-react/static/media/pgatour.ec5afb0af9b8732e1e18.png",
     "static/media/react.png": "/portfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio-react/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/portfolio-react/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/presidio3.png": "/portfolio-react/static/media/presidio3.24fcfa3c69a1a0c0df39.png",
     "static/media/codegame.png": "/portfolio-react/static/media/codegame.2c5a1e32764850453267.png",
     "static/media/html.png": "/portfolio-react/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/portfolio-react/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/logo.png": "/portfolio-react/static/media/logo.01e40a4f8a4286313014.png",
+    "static/media/fdc2.png": "/portfolio-react/static/media/fdc2.376ba0a4c22f1252c2f4.png",
+    "static/media/sorenson2.png": "/portfolio-react/static/media/sorenson2.61685dfaf55b8759526e.png",
     "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react/index.html",
-    "main.4e1b5188.css.map": "/portfolio-react/static/css/main.4e1b5188.css.map",
-    "main.3d7a990e.js.map": "/portfolio-react/static/js/main.3d7a990e.js.map"
+    "main.799aa889.css.map": "/portfolio-react/static/css/main.799aa889.css.map",
+    "main.9da954fb.js.map": "/portfolio-react/static/js/main.9da954fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e1b5188.css",
-    "static/js/main.3d7a990e.js"
+    "static/css/main.799aa889.css",
+    "static/js/main.9da954fb.js"
   ]
 }
