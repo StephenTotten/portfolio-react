@@ -3,8 +3,10 @@ import GitLife from '../assets/gitlife.png'
 import FlashFacts from '../assets/flashfacts.png'
 import CodeGame from '../assets/codegame.png'
 import PgaTour from '../assets/pgatour.png'
-import Sorenson from '../assets/sorenson.png'
-import Presidio from '../assets/presidio.jpg'
+import Sorenson from '../assets/sorenson2.png'
+import Presidio from '../assets/presidio3.png'
+import Fdc from '../assets/fdc2.png'
+import Soonercon from '../assets/soonercon.png'
 
 const Work = () => {
     return (
@@ -95,7 +97,7 @@ const Work = () => {
                     <p className='py-6'>These are some of the companies I have worked with.</p>
                 </div>
                 {/* Container */}
-                <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-6 text-center'>
+                <div className='w-full grid grid-rows-3 sm:grid-cols-3 gap-6 text-center'>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-40 mx-auto' src={Presidio} alt='node icon' />
                     </div>
@@ -104,6 +106,12 @@ const Work = () => {
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-40 mx-auto' src={Sorenson} alt='react icon' />
+                    </div>
+                    <div className='hover:scale-110 duration-500'>
+                        <img className='w-40 mx-auto' src={Fdc} alt='react icon' />
+                    </div>
+                    <div className='hover:scale-110 duration-500'>
+                        <img className='w-40 mx-auto' src={Soonercon} alt='react icon' />
                     </div>
                 </div>
 
