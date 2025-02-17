@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.799aa889.css",
-    "main.js": "/portfolio-react/static/js/main.9da954fb.js",
+    "main.css": "/portfolio-react/static/css/main.6c4a60c8.css",
+    "main.js": "/portfolio-react/static/js/main.7864a76c.js",
+    "static/media/nplsus.png": "/portfolio-react/static/media/nplsus.c8409a7cebd64e65d476.png",
     "static/media/Me2Pro.png": "/portfolio-react/static/media/Me2Pro.d994b46f40b2829fb7ba.png",
+    "static/media/aliciahb.png": "/portfolio-react/static/media/aliciahb.9d26cbaeaf8f3fffb8f7.png",
     "static/media/flashfacts.png": "/portfolio-react/static/media/flashfacts.f6ff55b684bbf2f0de54.png",
     "static/media/soonercon.png": "/portfolio-react/static/media/soonercon.636af92e23677af34cdf.png",
-    "static/media/gitlife.png": "/portfolio-react/static/media/gitlife.9ebd05c8020d9bc85f87.png",
     "static/media/pgatour.png": "/portfolio-react/static/media/pgatour.ec5afb0af9b8732e1e18.png",
     "static/media/react.png": "/portfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio-react/static/media/node.952a9ea986dcfa5229ad.png",
@@ -19,11 +20,11 @@
     "static/media/sorenson2.png": "/portfolio-react/static/media/sorenson2.61685dfaf55b8759526e.png",
     "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react/index.html",
-    "main.799aa889.css.map": "/portfolio-react/static/css/main.799aa889.css.map",
-    "main.9da954fb.js.map": "/portfolio-react/static/js/main.9da954fb.js.map"
+    "main.6c4a60c8.css.map": "/portfolio-react/static/css/main.6c4a60c8.css.map",
+    "main.7864a76c.js.map": "/portfolio-react/static/js/main.7864a76c.js.map"
   },
   "entrypoints": [
-    "static/css/main.799aa889.css",
-    "static/js/main.9da954fb.js"
+    "static/css/main.6c4a60c8.css",
+    "static/js/main.7864a76c.js"
   ]
 }
