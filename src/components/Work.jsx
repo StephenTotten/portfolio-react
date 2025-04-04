@@ -8,6 +8,7 @@ import Sorenson from '../assets/sorenson2.png'
 import Presidio from '../assets/presidio3.png'
 import Fdc from '../assets/fdc2.png'
 import Soonercon from '../assets/soonercon.png'
+import Wmata from '../assets/WMATA_Metro.png'
 
 const Work = () => {
     return (
@@ -121,6 +122,9 @@ const Work = () => {
                             </div>
                             <div className='hover:scale-110 duration-500'>
                                 <img className='w-40 mx-auto' src={Soonercon} alt='Soonercon' />
+                            </div>
+                            <div className='hover:scale-110 duration-500'>
+                                <img className='w-40 mx-auto' src={Wmata} alt='Soonercon' />
                             </div>
                         </div>
                     </div>
