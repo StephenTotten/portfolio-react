@@ -2,7 +2,7 @@ import React from 'react'
 import Aliciahb from '../assets/aliciahb.png'
 import Nplsus from '../assets/nplsus.png'
 import FlashFacts from '../assets/flashfacts.png'
-import CodeGame from '../assets/codegame.png'
+import jonathonHammack from '../assets/jonathonhammack.png'
 import PgaTour from '../assets/pgatour.png'
 import Sorenson from '../assets/sorenson2.png'
 import Presidio from '../assets/presidio3.png'
@@ -18,8 +18,8 @@ const Work = () => {
                     {/* Personal Projects Section */}
                     <div className='w-full md:w-1/2'>
                         <div className='pb-8'>
-                            <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#77DD77]'>Personal Projects</p>
-                            <p className='py-6'>Check out some of my projects, created with a team.</p>
+                            <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#77DD77]'>Websites</p>
+                            <p className='py-6'>Check out some of the websites I've worked on or created.</p>
                         </div>
                         {/* Container */}
                         <div className='grid sm:grid-cols-2 gap-4'>
@@ -60,22 +60,18 @@ const Work = () => {
                                     </div>
                                 </div>
                             </div>
+                            
                             <div
-                                style={{ backgroundImage: `url(${CodeGame})` }}
+                                style={{ backgroundImage: `url(${jonathonHammack})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
                                     <span className='text-2x1 font-bold text-white tracking-wider'>
-                                        Front-End JS Application
+                                        Portfolio Site
                                     </span>
                                     <div className='pt-8 text-center'>
-                                        <a href="https://stephentotten.github.io/UTA-BC4-QuizGame/">
+                                        <a href="https://jonathonhammack.com/">
                                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                                                Demo
-                                            </button>
-                                        </a>
-                                        <a href="https://github.com/StephenTotten/UTA-BC4-QuizGame">
-                                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                                                Code
+                                                Visit
                                             </button>
                                         </a>
                                     </div>
