@@ -1,8 +1,8 @@
 import React from 'react'
 import Aliciahb from '../assets/aliciahb.png'
 import Nplsus from '../assets/nplsus.png'
-import FlashFacts from '../assets/flashfacts.png'
-import jonathonHammack from '../assets/jonathonhammack.png'
+import Dfwsps from '../assets/dfwsps.png'
+import JonathonHammack from '../assets/jonathonhammack.png'
 import PgaTour from '../assets/pgatour.png'
 import Sorenson from '../assets/sorenson2.png'
 import Presidio from '../assets/presidio3.png'
@@ -40,21 +40,16 @@ const Work = () => {
                                 </div>
                             </div>
                             <div
-                                style={{ backgroundImage: `url(${FlashFacts})` }}
+                                style={{ backgroundImage: `url(${Dfwsps})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
                                     <span className='text-2x1 font-bold text-white tracking-wider'>
-                                        Flashcard App
+                                        Business Website
                                     </span>
                                     <div className='pt-8 text-center'>
-                                        <a href="https://stephentotten.github.io/flashcard-app/">
+                                        <a href="https://dfwsps.com">
                                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                                                Demo
-                                            </button>
-                                        </a>
-                                        <a href="https://github.com/StephenTotten/flashcard-app">
-                                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                                                Code
+                                                Visit
                                             </button>
                                         </a>
                                     </div>
@@ -62,7 +57,7 @@ const Work = () => {
                             </div>
                             
                             <div
-                                style={{ backgroundImage: `url(${jonathonHammack})` }}
+                                style={{ backgroundImage: `url(${JonathonHammack})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
                                     <span className='text-2x1 font-bold text-white tracking-wider'>
