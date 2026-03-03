@@ -19,17 +19,42 @@
     background-size: cover;
     background-position: center;
     height: 250px;
+    position: relative;
+    overflow: hidden;
 }
 
-.content-div:hover {
-    background-image: linear-gradient(
+.content-div::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
         to right,
-        rgba(112, 157, 255, 0.8),
-        hsla(242, 74%, 61%, 0.8)
-    )!important;
+        rgba(112, 157, 255, 0.9),
+        hsla(242, 74%, 61%, 0.9)
+    );
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.content-div:hover::before {
+    opacity: 1;
+}
+
+.content-div > div {
+    position: relative;
+    z-index: 2;
 }
 
 .glow-button:hover {
     color: #77DD77;
     text-shadow: 0 5px 15px #77DD77;
   }
+
+/* Thin dark outline for titles to improve legibility */
+.title-outline {
+    -webkit-text-stroke: 0.9px rgba(0,0,0,0.75);
+    text-stroke: 0.9px rgba(0,0,0,0.75);
+    text-shadow: 0 0 1px rgba(0,0,0,0.75);
+}

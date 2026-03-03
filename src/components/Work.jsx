@@ -1,6 +1,5 @@
 import React from 'react'
 import Aliciahb from '../assets/aliciahb.png'
-import Nplsus from '../assets/nplsus.png'
 import Dfwsps from '../assets/dfwsps.png'
 import JonathonHammack from '../assets/jonathonhammack.png'
 import PgaTour from '../assets/pgatour.png'
@@ -9,6 +8,7 @@ import Presidio from '../assets/presidio3.png'
 import Fdc from '../assets/fdc2.png'
 import Soonercon from '../assets/soonercon.png'
 import Wmata from '../assets/WMATA_Metro.png'
+import BradfordHills from '../assets/bradfordhills.png'
 
 const Work = () => {
     return (
@@ -27,7 +27,7 @@ const Work = () => {
                                 style={{ backgroundImage: `url(${Aliciahb})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
-                                    <span className='text-2x1 font-bold text-white tracking-wider'>
+                                    <span className='text-xl font-bold text-white tracking-wider'>
                                         Therapy Website
                                     </span>
                                     <div className='pt-8 text-center'>
@@ -43,7 +43,7 @@ const Work = () => {
                                 style={{ backgroundImage: `url(${Dfwsps})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
-                                    <span className='text-2x1 font-bold text-white tracking-wider'>
+                                    <span className='text-xl font-bold text-white tracking-wider'>
                                         Business Website
                                     </span>
                                     <div className='pt-8 text-center'>
@@ -60,7 +60,7 @@ const Work = () => {
                                 style={{ backgroundImage: `url(${JonathonHammack})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
-                                    <span className='text-2x1 font-bold text-white tracking-wider'>
+                                    <span className='text-xl font-bold text-white tracking-wider'>
                                         Portfolio Site
                                     </span>
                                     <div className='pt-8 text-center'>
@@ -73,14 +73,14 @@ const Work = () => {
                                 </div>
                             </div>
                             <div
-                                style={{ backgroundImage: `url(${Nplsus})` }}
+                                style={{ backgroundImage: `url(${BradfordHills})` }}
                                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                                 <div className='opacity-0 group-hover:opacity-100 duration-300'>
-                                    <span className='text-2x1 font-bold text-white tracking-wider'>
-                                        Business Website
+                                    <span className='text-xl font-bold text-white tracking-wider'>
+                                        Apartment Website
                                     </span>
                                     <div className='pt-8 text-center'>
-                                        <a href="https://nplsus.com/">
+                                        <a href="https://www.bradford-hills.com/">
                                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                                 Visit
                                             </button>
