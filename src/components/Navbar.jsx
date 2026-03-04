@@ -34,7 +34,7 @@ const Navbar = () => {
         </li>
         <li class='glow-button'>
           <Link to="work" smooth={true} duration={500}>
-            Projects
+            My Work
           </Link>
         </li>
         <li class='glow-button'>
