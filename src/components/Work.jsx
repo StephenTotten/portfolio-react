@@ -12,14 +12,14 @@ import BradfordHills from '../assets/bradfordhills.png'
 
 const Work = () => {
     return (
-        <div name='work' className='w-full md:h-screen text-gray-300 bg-gray-800'>
-            <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div name='work' className='w-full text-gray-300 bg-gray-800'>
+            <div className='max-w-[1200px] mx-auto p-4 flex flex-col w-full py-20'>
                 <div className='flex flex-col md:flex-row gap-8'>
                     {/* Personal Projects Section */}
                     <div className='w-full md:w-1/2'>
                         <div className='pb-8'>
                             <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#77DD77]'>Websites</p>
-                            <p className='py-6'>Check out some of the websites I've worked on or created.</p>
+                            <p className='py-6 text-xl'>Check out some of the websites I've worked on or created.</p>
                         </div>
                         {/* Container */}
                         <div className='grid sm:grid-cols-2 gap-4'>
@@ -95,7 +95,7 @@ const Work = () => {
                     <div className='w-full md:w-1/2'>
                         <div className='pb-8'>
                             <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#77DD77]'>Professional Collaboration</p>
-                            <p className='py-6'>These are some of the companies I have worked with.</p>
+                            <p className='py-6 text-xl'>These are some of the companies I have worked with.</p>
                         </div>
                         {/* Container */}
                         <div className='grid grid-cols-2 gap-6 text-center'>
@@ -115,7 +115,7 @@ const Work = () => {
                                 <img className='w-40 mx-auto' src={Soonercon} alt='Soonercon' />
                             </div>
                             <div className='hover:scale-110 duration-500'>
-                                <img className='w-40 mx-auto' src={Wmata} alt='Soonercon' />
+                                <img className='w-40 mx-auto max-h-[160px]' src={Wmata} alt='WMATA' />
                             </div>
                         </div>
                     </div>
