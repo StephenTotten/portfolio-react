@@ -1,4 +1,3 @@
-import React from 'react'
 import SectionHeader from '../ui/SectionHeader'
 import Stevo from '../../assets/Me2Pro.png'
 

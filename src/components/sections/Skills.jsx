@@ -1,4 +1,3 @@
-import React from 'react';
 import SectionHeader from '../ui/SectionHeader';
 import SkillCard from '../ui/SkillCard';
 import { skills } from '../../data/skills';

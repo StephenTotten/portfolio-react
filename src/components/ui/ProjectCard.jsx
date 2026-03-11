@@ -1,5 +1,3 @@
-import React from 'react';
-
 const ProjectCard = ({ title, href, image, alt }) => {
   return (
     <div

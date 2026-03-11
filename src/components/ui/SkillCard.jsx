@@ -1,5 +1,3 @@
-import React from 'react';
-
 const SkillCard = ({ name, icon }) => (
   <div className='hover:scale-110 duration-500'>
     <img className='w-20 mx-auto' src={icon} alt={`${name} icon`} />
