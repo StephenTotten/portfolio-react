@@ -3,8 +3,8 @@ import Stevo from '../../assets/Me2Pro.png'
 
 const About = () => {
     return (
-        <div name='about' className='w-full h-[30rem] bg-gray-800 text-gray-300'>
-            <div className='flex flex-col justify-center items-center w-full h-full'> 
+        <div name='about' className='w-full min-h-screen md:h-[30rem] bg-gray-800 text-gray-300'>
+            <div className='flex flex-col justify-center items-center w-full h-full py-16 md:py-0'> 
                 <div className='max-w-[1200px] w-full grid grid-cols-2 gap-8'>
                     <div className='sm:text-right pb-8 pl-4'>
                         <SectionHeader title='About' />
