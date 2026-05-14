@@ -8,6 +8,7 @@ import Sorenson from '../assets/sorenson2.png';
 import Fdc from '../assets/fdc2.png';
 import Soonercon from '../assets/soonercon.png';
 import Wmata from '../assets/WMATA_Metro.png';
+import Swapa from '../assets/swapa.jpg';
 
 export const websiteProjects = [
   {
@@ -39,6 +40,7 @@ export const websiteProjects = [
 export const collaborations = [
   { name: 'Presidio', image: Presidio, alt: 'Presidio logo' },
   { name: 'PGA Tour', image: PgaTour, alt: 'PGA Tour logo' },
+  { name: 'Swapa', image: Swapa, alt: 'Swapa logo' },
   { name: 'Sorenson', image: Sorenson, alt: 'Sorenson logo' },
   { name: 'FDC', image: Fdc, alt: 'FDC logo' },
   { name: 'Soonercon', image: Soonercon, alt: 'Soonercon logo' },
